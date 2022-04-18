@@ -1,0 +1,22 @@
+/** CSS Foundation Exercise 02**/
+
+.first-group{
+    color:black;
+    background-color: #FFC0CB;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+.unique-font{
+    font-size: 24px;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+#num4{
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size: 24px;
+}
